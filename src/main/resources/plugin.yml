@@ -1,0 +1,8 @@
+name: RunicSkillCheck
+version: ${project.version}
+main: com.runicrealms.skillcheck.runicskillcheck.RunicSkillCheck
+api-version: 1.16
+prefix: SCAPI
+authors: [RunicRealmsDevelopmentTeam]
+description: The Skillcheck API for Runic Realms
+website: www.runicrealms.com
